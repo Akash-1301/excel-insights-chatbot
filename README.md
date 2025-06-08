@@ -59,3 +59,13 @@ To help non-technical users extract insights from Excel sheets simply by asking 
 
 ##  Project Structure
 
+##  Author
+
+- **Akash Kumar** — AI Engineer  
+- GitHub: [@Akash-1301](https://github.com/Akash-1301)
+
+---
+
+##  License
+
+This project is for evaluation purposes under NeoStats' assessment. Do not copy or reuse without permission.
