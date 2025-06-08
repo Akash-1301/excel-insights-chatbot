@@ -51,9 +51,9 @@ To help non-technical users extract insights from Excel sheets simply by asking 
 
 | CustomerID | Name       | Age | Sales | Region | Active |
 |------------|------------|-----|-------|--------|--------|
-| 101        | Arindam    | 30  | 1200  | East   | Yes    |
-| 102        | Nishi      | 25  | 900   | West   | No     |
-| 103        | Gurucharan | 40  | 1500  | North  | Yes    |
+| 101        | Akash   | 30  | 1200  | East   | Yes    |
+| 102        | Aditya      | 25  | 900   | West   | No     |
+| 103        | Rohan | 40  | 1500  | North  | Yes    |
 
 ---
 
